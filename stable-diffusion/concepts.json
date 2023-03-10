@@ -1,0 +1,22 @@
+[
+    {
+        "instance_prompt":      "adventure st1 style",
+        "instance_data_dir":    "/home/amirbek.djanibekov/Documents/ai-project/data/512x512/adventure_filtered/style1"
+    },
+    {
+        "instance_prompt":      "detective st4 style",
+        "instance_data_dir":    "/home/amirbek.djanibekov/Documents/ai-project/data/512x512/detective-mystery_filtered/style4"
+    },
+    {
+        "instance_prompt":      "horror st3 style",
+        "instance_data_dir":    "/home/amirbek.djanibekov/Documents/ai-project/data/512x512/horror_filtered/style3"
+    },
+    {
+        "instance_prompt":      "romantic st2 style",
+        "instance_data_dir":    "/home/amirbek.djanibekov/Documents/ai-project/data/512x512/romantic_filtered/style2"
+    },
+    {
+        "instance_prompt":      "sci-fi st6 style",
+        "instance_data_dir":    "/home/amirbek.djanibekov/Documents/ai-project/data/512x512/sci-fi_filtered/style1"
+    }
+]
